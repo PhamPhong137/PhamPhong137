@@ -20,16 +20,19 @@
 
 ### 🌟 **GitHub Stats**
 
-<div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhamPhong137&theme=2077" alt="Profile Details">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PhamPhong137&theme=2077" alt="Repos per Language">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PhamPhong137&theme=2077" alt="Most Commit Language">
-</div>
+<p>
+  <img src="./profile-summary-card-output/2077/0-profile-details.svg" alt="Profile Details" />
+</p>
 
-<div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PhamPhong137&theme=2077" alt="GitHub Stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PhamPhong137&theme=2077&utcOffset=7" alt="Productive Time">
-</div>
+<p >
+  <img src="./profile-summary-card-output/2077/1-repos-per-language.svg" alt="Repos per Language" />
+  <img src="./profile-summary-card-output/2077/2-most-commit-language.svg" alt="Most Commit Language" />
+</p>
+
+<p >
+  <img src="./profile-summary-card-output/2077/3-stats.svg" alt="GitHub Stats" />
+  <img src="./profile-summary-card-output/2077/4-productive-time.svg" alt="Productive Time" />
+</p>
 
 ---
 
