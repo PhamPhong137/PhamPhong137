@@ -36,14 +36,6 @@
 
 ---
 
-### 📈 **Activity Graph**
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhamPhong137&theme=react-dark&hide_border=false&area=true" alt="Activity Graph">
-</p>
-
----
-
 ### 🛠 **Tech Stack & Tools**
 
 <p>
